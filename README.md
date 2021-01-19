@@ -36,6 +36,10 @@ It will make participants see all the events they have registered into along wit
 5).Admin login page
 This will enable the admisitrator to enter into the admin panel of website and change any data of the complete fest and look for other details such as how many people have visited the website and how event is enlarging on social media platforms.
 
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/1.PNG)
+
+
+
 ADMIN PANEL :
 Admin Dashboard  or panel to use during college fests.
 
