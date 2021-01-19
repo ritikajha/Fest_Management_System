@@ -1,0 +1,18 @@
+Rules 
+following are the rules for all events:-
+This is the .txt file being displayed.
+DANCE EVENTS
+Nartaki
+Natraj
+
+DRAMA EVENTS
+Nayak
+Chuperustom
+
+Music events
+Gayak
+Ensemble
+
+Literary events
+Quiz
+Vartaalap

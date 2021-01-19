@@ -1,0 +1,41 @@
+
+1)
+To get details of all the participants of a solo event by event id->
+select fname,mname,lname,emailid,pnumber from participants where p_id in (select p_id from participation where event_id='3')
+
+2)
+To get details of teams registered in for group event by event id->
+SELECT t_id,fname,mname,lname,emailid,pnumber FROM t_participation NATURAL JOIN participants where e_id=1  ;
+
+3)
+Counting total participation in a solo event->
+select count(distinct(p_id)) from participation where event_id=8;
+
+4)
+Counting total team participation in a group event->
+select count(distinct(t_id)) from t_participation where e_id=1;
+ 
+5)
+Name of all participants not registered in any event->
+select p_id,fname,mname,lname,emailid,pnumber from participants where (p_id NOT IN (select p_id from participation) and p_id not in (select p_id from t_participation));
+
+6)
+Counting number of registered people participating in no events->
+select count(distinct(p_id)) from participants where (p_id NOT IN (select p_id from participation) and p_id not in (select p_id from t_participation));
+
+
+7)
+To get managers of respective events->
+select name, event_name from managers, events where event_id=e_id;
+
+8)
+To insert into volunteeredby->
+inserto into volunteeredby values (1,1);
+
+9)
+To insert into sponseredby->
+insert into sponseredby  VALUES (1,3);
+
+10)
+To insert into guestedby->
+ insert into guestedby VALUES (1,1);
