@@ -38,6 +38,19 @@ This will enable the admisitrator to enter into the admin panel of website and c
 
 ![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/1.PNG)
 
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/2.PNG)
+
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/3.PNG)
+
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/4.PNG)
+
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/5.PNG)
+
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/6.PNG)
+
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/7.PNG)
+
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/8.PNG)
 
 
 ADMIN PANEL :
@@ -71,6 +84,19 @@ Along with index page , all other pages have following parts in left menu -
 	- PDF Viewer - To view any PDF/text file , PDF viewer can be used . Also PDF can be printed and downloaded.
 	
 - Logout  tab - To successfully come out of ZEPHYR Admin , this tab has to be clicked .	
+
+
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/9.PNG)
+
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/10.PNG)
+
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/11.PNG)
+
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/12.PNG)
+
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/13.PNG)
+
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/14.PNG)
 
 ********************************************************************************************************************************************
 
