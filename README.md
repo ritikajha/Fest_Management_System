@@ -88,6 +88,8 @@ Along with index page , all other pages have following parts in left menu -
 
 ![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/9.PNG)
 
+![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/15.PNG)
+
 ![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/10.PNG)
 
 ![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/11.PNG)
@@ -101,7 +103,7 @@ Along with index page , all other pages have following parts in left menu -
 ********************************************************************************************************************************************
 
 
-C). Installation :
+# C). Installation :
 Here you can see two folders, front_zephyr and admin_zephyr
 	front_zephyr-> It consists of all the files , necessary to run the frontend webpages
 	admin_zephyr-> It consists of all the files , necessary to run the admin panel of ZEPHYR ,i.e. ZEPHYR Admin .
