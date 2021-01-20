@@ -88,7 +88,7 @@ Along with index page , all other pages have following parts in left menu -
 
 ![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/9.PNG)
 
-![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/15.PNG)
+![alt text](https://github.com/dk-github-acc/Fest_Management_System/blob/master/images/15.PNG)
 
 ![alt text](https://github.com/ritikajha/Fest_Management_System/blob/master/images/10.PNG)
 
